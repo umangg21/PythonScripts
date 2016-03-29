@@ -1,0 +1,1 @@
+This is a simple python script for synchronizing music of two folders(Directories) using Python 3
